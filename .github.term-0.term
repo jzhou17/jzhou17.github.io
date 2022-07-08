@@ -1,0 +1,55 @@
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ ls..
+bash: ls..: command not found
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ ls . .
+.:
+github.term
+
+.:
+github.term
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git init
+Initialized empty Git repository in /projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/Project/github_sites/Joshua/.git/
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ touch [K [K [K README.md
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ echo 'some message' > READ.m[K[KME.md
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git in[K[Kadd README.md[K[K[K[K[K[K[K[K[K-A
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git init
+Reinitialized existing Git repository in /projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/Project/github_sites/Joshua/.git/
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ touch READ.me[K[K[KME.md
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ echo 
+
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ echo 'S[Ksome message' > README.md
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ cat READM[K.[KME.md some message
+some message
+cat: some: No such file or directory
+cat: message: No such file or directory
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ get remote add origin [K https://github.com/jzhou 17/tmp.git
+bash: get: command not found
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ stop
+bash: stop: command not found
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ end
+bash: end: command not found
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git branch[K[K[K[K[K[K[K[K[K[Kgit push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git remote[K[K[K[K[K[K[K[K[K[Kgit remote add origin https://github.com/jzhou17/jzhou.github.io.git
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git [K[K[K[K    git push --set-upstream origin master
+error: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/jzhou17/jzhou.github.io.git'
+[m(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git pi[Kush ==[K[K--set-upstream origin master
+error: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/jzhou17/jzhou.github.io.git'
+[m(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git add-A
+git: 'add-A' is not a git command. See 'git --help'.
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git add [K- A[C[C[C[K[K[K
