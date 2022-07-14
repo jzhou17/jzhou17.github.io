@@ -75,4 +75,66 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 Username for 'https://github.com': jzhou17
 Password for 'https://jzhou17@github.com': 
 Everything up-to-date
-(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ f[Kgit add[K[K[K[K
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ f[Kgit add[K[K[K[K add -A
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git commiu[Kt -m "uploading sit e"
+[master cad317d] uploading site
+ 37 files changed, 13054 insertions(+), 1 deletion(-)
+ create mode 100644 app/app.zip
+ create mode 100644 app/index.html
+ create mode 100644 app/main.py
+ create mode 100644 app/requirements.txt
+ create mode 100644 app/static/2022-07-11-130927.zip
+ create mode 100644 app/static/assets/IMPOSSIBLE.TTF
+ create mode 100644 app/static/assets/favicon.ico
+ create mode 100644 app/static/charts/Crude Oil Production of Different Countries Over Time.html
+ create mode 100644 app/static/charts/GHG_pie_2000.html
+ create mode 100644 app/static/charts/GHG_pie_2010.html
+ create mode 100644 app/static/charts/GHG_pie_2019.html
+ create mode 100644 app/static/charts/GHG_pie_subplot.html
+ create mode 100644 app/static/charts/GHG_time.html
+ create mode 100644 app/static/charts/Gas Oil Diesel Oil Import vs. Greenhouse Gas Emissions.html
+ create mode 100644 app/static/charts/Hard Coal Production of Different Countries Over Time.csv
+ create mode 100644 app/static/charts/Hard Coal Production of Different Countries Over Time.html
+ create mode 100644 app/static/charts/corr_heatmap.html
+ create mode 100644 app/static/charts/ghg distro violin.html
+ create mode 100644 app/static/charts/ghg_distro_violin.html
+ create mode 100644 app/static/charts/ml_results_comp.html
+ create mode 100644 app/static/css/styles.css
+ create mode 100644 app/static/images/CO2 Image.bmp
+ create mode 100644 app/static/images/Elastic net.png
+ create mode 100644 app/static/images/Neural Network Image.jpg
+ create mode 100644 app/static/images/Random Forest Image.jpeg
+ create mode 100644 app/static/images/gravity-well.jpg
+ create mode 100644 app/static/images/images.zip
+ create mode 100644 app/static/images/knn.jpg
+ create mode 100644 app/static/images/lasso.jpg
+ create mode 100644 app/static/images/lasso_regression.png
+ create mode 100644 app/static/images/linear_regression.png
+ create mode 100644 app/static/images/maxresdefault.jpg
+ create mode 100644 app/static/js/scripts.js
+ create mode 100644 app/templates/.index.html.sage-chat
+ create mode 100644 app/templates/index.html
+ create mode 100644 app/utils.py
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git push
+Username for 'https://github.com': jzhou17
+Password for 'https://jzhou17@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/jzhou17/jzhou.github.io.git/'
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ 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
+bash: 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: command not found
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ gitpush
+bash: gitpush: command not found
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git push
+Username for 'https://github.com': jzhou17
+Password for 'https://jzhou17@github.com': 
+Enumerating objects: 48, done.
+Counting objects:   2% (1/48)Counting objects:   4% (2/48)Counting objects:   6% (3/48)Counting objects:   8% (4/48)Counting objects:  10% (5/48)Counting objects:  12% (6/48)Counting objects:  14% (7/48)Counting objects:  16% (8/48)Counting objects:  18% (9/48)Counting objects:  20% (10/48)Counting objects:  22% (11/48)Counting objects:  25% (12/48)Counting objects:  27% (13/48)Counting objects:  29% (14/48)Counting objects:  31% (15/48)Counting objects:  33% (16/48)Counting objects:  35% (17/48)Counting objects:  37% (18/48)Counting objects:  39% (19/48)Counting objects:  41% (20/48)Counting objects:  43% (21/48)Counting objects:  45% (22/48)Counting objects:  47% (23/48)Counting objects:  50% (24/48)Counting objects:  52% (25/48)Counting objects:  54% (26/48)Counting objects:  56% (27/48)Counting objects:  58% (28/48)Counting objects:  60% (29/48)Counting objects:  62% (30/48)Counting objects:  64% (31/48)Counting objects:  66% (32/48)Counting objects:  68% (33/48)Counting objects:  70% (34/48)Counting objects:  72% (35/48)Counting objects:  75% (36/48)Counting objects:  77% (37/48)Counting objects:  79% (38/48)Counting objects:  81% (39/48)Counting objects:  83% (40/48)Counting objects:  85% (41/48)Counting objects:  87% (42/48)Counting objects:  89% (43/48)Counting objects:  91% (44/48)Counting objects:  93% (45/48)Counting objects:  95% (46/48)Counting objects:  97% (47/48)Counting objects: 100% (48/48)Counting objects: 100% (48/48), done.
+Delta compression using up to 2 threads
+Compressing objects:   2% (1/44)Compressing objects:   4% (2/44)Compressing objects:   6% (3/44)Compressing objects:   9% (4/44)Compressing objects:  11% (5/44)Compressing objects:  13% (6/44)Compressing objects:  15% (7/44)Compressing objects:  18% (8/44)Compressing objects:  20% (9/44)Compressing objects:  22% (10/44)Compressing objects:  25% (11/44)Compressing objects:  27% (12/44)Compressing objects:  29% (13/44)Compressing objects:  31% (14/44)Compressing objects:  34% (15/44)Compressing objects:  36% (16/44)Compressing objects:  38% (17/44)Compressing objects:  40% (18/44)Compressing objects:  43% (19/44)Compressing objects:  45% (20/44)Compressing objects:  47% (21/44)Compressing objects:  50% (22/44)Compressing objects:  52% (23/44)Compressing objects:  54% (24/44)Compressing objects:  56% (25/44)Compressing objects:  59% (26/44)Compressing objects:  61% (27/44)Compressing objects:  63% (28/44)Compressing objects:  65% (29/44)Compressing objects:  68% (30/44)Compressing objects:  70% (31/44)Compressing objects:  72% (32/44)Compressing objects:  75% (33/44)Compressing objects:  77% (34/44)Compressing objects:  79% (35/44)Compressing objects:  81% (36/44)Compressing objects:  84% (37/44)Compressing objects:  86% (38/44)Compressing objects:  88% (39/44)Compressing objects:  90% (40/44)Compressing objects:  93% (41/44)Compressing objects:  95% (42/44)Compressing objects:  97% (43/44)Compressing objects: 100% (44/44)Compressing objects: 100% (44/44), done.
+Writing objects:   2% (1/46)Writing objects:   4% (2/46)Writing objects:   6% (3/46)Writing objects:   8% (4/46)Writing objects:   8% (4/46), 10.85 MiB | 20.87 MiB/sWriting objects:   8% (4/46), 26.85 MiB | 25.86 MiB/sWriting objects:  10% (5/46), 26.85 MiB | 25.86 MiB/sWriting objects:  13% (6/46), 26.85 MiB | 25.86 MiB/sWriting objects:  15% (7/46), 26.85 MiB | 25.86 MiB/sWriting objects:  17% (8/46), 26.85 MiB | 25.86 MiB/sWriting objects:  19% (9/46), 26.85 MiB | 25.86 MiB/sWriting objects:  21% (10/46), 26.85 MiB | 25.86 MiB/sWriting objects:  23% (11/46), 26.85 MiB | 25.86 MiB/sWriting objects:  26% (12/46), 26.85 MiB | 25.86 MiB/sWriting objects:  28% (13/46), 26.85 MiB | 25.86 MiB/sWriting objects:  30% (14/46), 26.85 MiB | 25.86 MiB/sWriting objects:  39% (18/46), 26.85 MiB | 25.86 MiB/sWriting objects:  43% (20/46), 32.15 MiB | 19.92 MiB/sWriting objects:  45% (21/46), 32.15 MiB | 19.92 MiB/sWriting objects:  47% (22/46), 32.15 MiB | 19.92 MiB/sWriting objects:  50% (23/46), 32.15 MiB | 19.92 MiB/sWriting objects:  52% (24/46), 32.15 MiB | 19.92 MiB/sWriting objects:  54% (25/46), 32.15 MiB | 19.92 MiB/sWriting objects:  56% (26/46), 32.15 MiB | 19.92 MiB/sWriting objects:  58% (27/46), 32.15 MiB | 19.92 MiB/sWriting objects:  60% (28/46), 32.15 MiB | 19.92 MiB/sWriting objects:  63% (29/46), 32.15 MiB | 19.92 MiB/sWriting objects:  65% (30/46), 32.15 MiB | 19.92 MiB/sWriting objects:  67% (31/46), 32.15 MiB | 19.92 MiB/sWriting objects:  69% (32/46), 32.15 MiB | 19.92 MiB/sWriting objects:  71% (33/46), 32.15 MiB | 19.92 MiB/sWriting objects:  73% (34/46), 35.44 MiB | 16.76 MiB/sWriting objects:  76% (35/46), 35.44 MiB | 16.76 MiB/sWriting objects:  78% (36/46), 35.44 MiB | 16.76 MiB/sWriting objects:  80% (37/46), 35.44 MiB | 16.76 MiB/sWriting objects:  82% (38/46), 35.44 MiB | 16.76 MiB/sWriting objects:  84% (39/46), 35.44 MiB | 16.76 MiB/sWriting objects:  86% (40/46), 35.44 MiB | 16.76 MiB/sWriting objects:  89% (41/46), 35.44 MiB | 16.76 MiB/sWriting objects:  91% (42/46), 35.44 MiB | 16.76 MiB/sWriting objects:  93% (43/46), 35.44 MiB | 16.76 MiB/sWriting objects:  95% (44/46), 35.44 MiB | 16.76 MiB/sWriting objects:  97% (45/46), 35.44 MiB | 16.76 MiB/sWriting objects: 100% (46/46), 35.44 MiB | 16.76 MiB/sWriting objects: 100% (46/46), 38.26 MiB | 11.16 MiB/s, done.
+Total 46 (delta 12), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/12)[Kremote: Resolving deltas:   8% (1/12)[Kremote: Resolving deltas:  16% (2/12)[Kremote: Resolving deltas:  25% (3/12)[Kremote: Resolving deltas:  33% (4/12)[Kremote: Resolving deltas:  41% (5/12)[Kremote: Resolving deltas:  50% (6/12)[Kremote: Resolving deltas:  58% (7/12)[Kremote: Resolving deltas:  66% (8/12)[Kremote: Resolving deltas:  75% (9/12)[Kremote: Resolving deltas:  83% (10/12)[Kremote: Resolving deltas:  91% (11/12)[Kremote: Resolving deltas: 100% (12/12)[Kremote: Resolving deltas: 100% (12/12), completed with 1 local object.[K
+To https://github.com/jzhou17/jzhou.github.io.git
+   937f3fa..cad317d  master -> master
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ g
