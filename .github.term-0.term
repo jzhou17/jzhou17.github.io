@@ -52,4 +52,27 @@ error: src refspec master does not match any
 [31merror: failed to push some refs to 'https://github.com/jzhou17/jzhou.github.io.git'
 [m(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git add-A
 git: 'add-A' is not a git command. See 'git --help'.
-(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git add [K- A[C[C[C[K[K[K
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git add [K- A[C[C[C[K[K[K -A
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git commit -M '[K[K[Km 'some message'
+[master (root-commit) 937f3fa] some message
+ 3 files changed, 56 insertions(+)
+ create mode 100644 .github.term-0.term
+ create mode 100644 README.md
+ create mode 100644 github.term
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git push set u[K[K[K[K[K--set up[K[K[K-upstream origin master
+Username for 'https://github.com': jzhou17
+Password for 'https://jzhou17@github.com': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 1.05 KiB | 1.05 MiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/jzhou17/jzhou.github.io.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ git push
+Username for 'https://github.com': jzhou17
+Password for 'https://jzhou17@github.com': 
+Everything up-to-date
+(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ (base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ [K(base) ]0;~/Project/github_sites/Joshua[01;34m~/Project/github_sites/Joshua[00m$ f[Kgit add[K[K[K[K
